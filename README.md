@@ -8,4 +8,5 @@ Node index.js<br/>
 Cd..<br/>
 Install nodemon<br/>
 Nodemon app.js
-<img src="Amit.jpg" width="300px" height="200px" alt="logo image" loading="lazy">
+![image](https://github.com/user-attachments/assets/c9f17de9-0eb0-4512-96a3-9dd0ba9e93e7)
+
